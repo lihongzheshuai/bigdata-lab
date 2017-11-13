@@ -1,4 +1,4 @@
-package cn.rongcapital.bigdata.mr;
+package cn.rongcapital.resume.mr;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

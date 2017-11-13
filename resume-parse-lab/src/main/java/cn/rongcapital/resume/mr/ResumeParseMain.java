@@ -1,4 +1,4 @@
-package cn.rongcapital.bigdata.mr;
+package cn.rongcapital.resume.mr;
 
 import lombok.extern.apachecommons.CommonsLog;
 import org.apache.hadoop.conf.Configuration;
@@ -8,7 +8,6 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
-import org.apache.hadoop.mapreduce.lib.reduce.IntSumReducer;
 
 /**
  * @author li.hzh 2017-11-07 15:35
